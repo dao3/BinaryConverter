@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\funny\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\05ea1e31091ffd8f57e7b1869653fe49\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="C:\Users\funny\AndroidStudioProjects\Binary to Decimal Converter\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\funny\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.0.aar\2fa9fdf0eee7ef140bc39e4738e569ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6744a722b558c994eb23504c7871807f3fa35533">
+        <dex dex="C:\Users\funny\AndroidStudioProjects\Binary to Decimal Converter\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\funny\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.0.aar\36a2efb97f841bd303e07339502e50f4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b0cb1d3587fcae786438f623e9131d4e3b9d35b">
+        <dex dex="C:\Users\funny\AndroidStudioProjects\Binary to Decimal Converter\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\funny\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\862401d78490aa8bf5b3613ed16d22b2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1a9377553f36949950d90d77bc3c64f442cd291">
+        <dex dex="C:\Users\funny\AndroidStudioProjects\Binary to Decimal Converter\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>
